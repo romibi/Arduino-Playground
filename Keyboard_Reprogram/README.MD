@@ -22,7 +22,7 @@ If hotkeys should be modified further on pc (and the arduino is only to differen
 1. Get the Hardware
 2. Install and start the Arduino IDE
 3. Sketch → Include Library → Manage Libraries… → Search for "USB Host Shield Library 2.0" → Install
-4. Open the [Keyboard_Reprogram.ino](Keyboard_Reprogram/Keyboard_Reprogram.ino) from this repository
+4. Open the [Keyboard_Reprogram.ino](Keyboard_Reprogram.ino) from this repository
 5. Attach a compatibe Arduino (with the host-shield)
 6. Optionally: modify the behaviour
 7. Push the "Upload" button
@@ -35,4 +35,4 @@ Optionally: Install "AutoHotkey"
 With USB-Hubs if multiple
 2. Attach the Arduino to the PC
 3. Wait for the blinking to stop (~20s)
-4. Optionally: Run the [AutoHotkey script](Keyboard_Reprogram/Keyboard_Reprogram_Keyboard_1.ahk) (modified for your needs)
+4. Optionally: Run the [AutoHotkey script](Keyboard_Reprogram_Keyboard_1.ahk) (modified for your needs)
