@@ -2,6 +2,9 @@
 
 Allows you to detect different keyboards from hotkey scripts by checking which F13-F24 Key is pressed.
 
+[See it in action on Youtube:](https://www.youtube.com/watch?v=Qih8i7juc0s)  
+[![See it in action](https://img.youtube.com/vi/Qih8i7juc0s/0.jpg)](https://www.youtube.com/watch?v=Qih8i7juc0s)
+
 ## Resources & Dependencies
 
 ### Hardware
