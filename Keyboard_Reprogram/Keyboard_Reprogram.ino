@@ -1,6 +1,7 @@
 // Keyboard Reprogram
 // 
 // Allows you to detect different keyboards from hotkey scripts by checking which F13-F24 Key is pressed.
+// Needs an Arduino compatible with the official Keyboard Library and an USB-Host-Shield
 //
 // E.g. with Auto Hotkey:
 // ----------------------
@@ -19,7 +20,6 @@
 #include <hidboot.h>
 #include <usbhub.h>
 
-#include <SPI.h>
 #include <Keyboard.h>
 
 // In this File:
